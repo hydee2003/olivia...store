@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(196, 166, 129);
+   background:linear-gradient(to bottom,rgb(196, 166, 129),hsl(216, 30%, 40%),rgb(196, 166, 129),hsl(216, 30%, 40%),rgb(196, 166, 129),hsl(216, 30%, 40%)) ;
 }
 
 table {
